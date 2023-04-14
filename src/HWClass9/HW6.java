@@ -12,5 +12,7 @@ public class HW6 {
             sum=a[i]+sum;
         }
         System.out.println(sum);
+
+
     }
 }
